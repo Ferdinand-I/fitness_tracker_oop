@@ -24,7 +24,7 @@ source venv/Scripts/activate
 3. Обновите PIP и установите зависимости requirements.txt
 
 ```BASH
-python - m pip install --upgrade pip
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
