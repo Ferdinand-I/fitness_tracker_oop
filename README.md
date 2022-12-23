@@ -14,11 +14,12 @@
 git clone git@github.com:Ferdinand-I/fitness_tracker_oop.git
 ```
 
-2. Создайте и активируйте виртуальное окружение (в примере используется утилита venv)
+2. Создайте и активируйте виртуальное окружение (в примере используется утилита venv), перейдите в директорию проекта
 
 ```BASH
 python -m venv venv
 source venv/Scripts/activate
+cd fitness_tracker_oop
 ```
 
 3. Обновите PIP и установите зависимости requirements.txt
